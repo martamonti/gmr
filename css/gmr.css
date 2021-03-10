@@ -1,13 +1,13 @@
 @font-face {
-  font-family: 'Plain';
-  src: url('../fonts/Plain-Regular.woff2') format('woff2'),
-    url('../fonts/Plain-Regular.woff') format('woff');
+  font-family: 'AtlasGrotesk';
+  src: url('../fonts/AtlasGrotesk-Regular.woff') format('woff2'),
+    url('../fonts/AtlasGrotesk-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Atlas';
+  font-family: 'AtlasGrotesk';
   src: url('../fonts/AtlasGrotesk-Regular.woff') format('woff'),
     url('../fonts/AtlasGrotesk-Medium.woff') format('woff');
   font-weight: 300;
@@ -15,9 +15,9 @@
 }
 
 @font-face {
-  font-family: 'Plain';
-  src: url('../fonts/Plain-Bold.woff2') format('woff2'),
-    url('../fonts/Plain-Bold.woff') format('woff');
+  font-family: 'AtlasGrotesk';
+  src: url('../fonts/AtlasGrotesk-Medium.woff') format('woff2'),
+    url('../fonts/AtlasGrotesk-Medium.woff') format('woff');
   font-weight: bold;
   font-style: normal;
 }
