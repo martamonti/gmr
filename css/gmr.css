@@ -343,7 +343,7 @@ a:focus {
   box-shadow: 6px 0 38px rgba(20, 20, 20, 0.10);
   border-radius: 0 0 2px 2px;
   padding: 1rem 2rem;
-  margin: 10px;
+  margin-bottom: 2rem;
   position: relative;
 }
 
