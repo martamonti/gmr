@@ -155,6 +155,8 @@ strong {
   color: var(--white-color);
 }
 
+
+
 /*---------------------------------------
      GENERAL
   -----------------------------------------*/
@@ -619,6 +621,7 @@ button#submit-button:hover {
     column-count: 2
   }
 }
+
 
 @keyframes slidy {
 0% { left: 0%; }
